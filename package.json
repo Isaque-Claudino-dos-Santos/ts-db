@@ -1,0 +1,20 @@
+{
+  "name": "ts-db",
+  "version": "1.0.0",
+  "description": "DataBase handler with TypeScript or JavaScript",
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Isaque-Claudino-dos-Santos/ts-db.git"
+  },
+  "keywords": [],
+  "author": "Isaque Claudino dos Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Isaque-Claudino-dos-Santos/ts-db/issues"
+  },
+  "homepage": "https://github.com/Isaque-Claudino-dos-Santos/ts-db#readme"
+}
