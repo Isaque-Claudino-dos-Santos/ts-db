@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
     "allowJs": true,
-    "target": "ES2022",
+    "target": "ES5",
     "module": "Node16",
     "outDir": "build",
     "rootDir": "src",
@@ -9,6 +9,6 @@
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true
   },
-  "include": ["src/index.ts"],
+  "include": ["src/index.ts", "environment.d.ts"],
   "exclude": ["node_modules"]
 }
