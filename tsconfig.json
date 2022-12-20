@@ -7,8 +7,11 @@
     "rootDir": "src",
     "allowSyntheticDefaultImports": true,
     "emitDecoratorMetadata": true,
-    "experimentalDecorators": true
+    "experimentalDecorators": true,
+    "paths": {
+      "@Types/*": ["./src/Types/*"]
+    }
   },
-  "include": ["src/index.ts", "environment.d.ts"],
+  "include": ["src/**/*.ts", "environment.d.ts"],
   "exclude": ["node_modules"]
 }
